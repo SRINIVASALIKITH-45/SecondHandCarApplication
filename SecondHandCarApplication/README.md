@@ -38,7 +38,7 @@ Dealers can access a dedicated page to manage their car listings. They can add n
 
 **Authentication**
 </br>
-The website includes login and registration pages. For dealer access, the system requires using emails in the format of "@dealer.com" (e.g., shiva@dealer.com).
+The website includes login and registration pages. For dealer access, the system requires using emails in the format of "@dealer.com" 
 
 **Add Car Page**
 </br>
